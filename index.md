@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Ramacsv/KamalaFox1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to Kamala Fox Story Page
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###  Kamala fox story
+**_This is Kamala fox_**
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_I am inside a pyramid. I am trying to find  golden jewelry. 
+I can make a necklace for my mom with that.
+I am in the first chamber. I have to go through more chambers to get to the fox chamber.
+The jewel is there. I am moving toward that. 
+There are two obstacles. A lava lake and a glacier. 
+For lava lake there is a bridge control. There are three colored button. 
+Push the red one while pushing blue lever. Then turn the wheel 
+Then the bridge will appear then I cross. 
+I found a cup that can hold the lava from lava lake so that I can make a tunnel in the glacier to get to the fox chamber. 
+Now I have to find the jewel._ 
 
-```markdown
-Syntax highlighted code block
+_There is small slot and I found a card in that. There is an another slot where the card goes that opens the box the jewel. 
+Now I got the jewel. I am getting out of the pyramid. 
+My cell phone went out of charge but when climbing out of the pyramid saw a small opening where sun light was coming._
 
-# Header 1
-## Header 2
-### Header 3
+_I was able the charge my cell phone and gout out of the pyramid. 
+I have to call my pilot now to come take me back home. 
+The plane came and I brought be back home. 
+The plane came and I brought be back home. 
+Gave the jewelry to my mom. She was very happy._
 
-- Bulleted
-- List
+**End of story.**
 
-1. Numbered
-2. List
+![Kamala Fox](kamalaFox1.jpg)
 
-**Bold** and _Italic_ and `Code` text
+<b>Image Photo SuiteCase Friend</b>
+<hr style="border:5px solid blue">
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ramacsv/KamalaFox1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Thank You for visiting my page
