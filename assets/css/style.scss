@@ -12,9 +12,14 @@ header {
   right:0;
   width: 100%;
   text-align: center;
-  background: url(../images/kamalaFox1.png), url(../images/flower1.png), url(../images/kamalaFox1.jpg), #4276b6;
-   background-repeat: no-repeat;
-   background-position: center;
+  background: url(../images/flower1.png), #4276b6;
+  background-position: center;
+  background: url(../images/flower1.png);
+  background-position: left center;
+  background: url(../images/kamalaFox1.jpg);
+  background-position: right center;
+  background-repeat: no-repeat;
+   
   box-shadow: 1px 0px 2px rgba(0,0,0,.75);
   z-index:99;
   -webkit-font-smoothing:antialiased;
