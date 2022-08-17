@@ -29,7 +29,9 @@ Gave the jewelry to my mom. She was very happy._
 
 **End of story.**
 
-![[alt text](kamalaFox1.jpg) "kamalaFox1.jpg")
+![alt text] (kamalaFox1.jpg "kamalaFox1.jpg")
+
+<!-- ![kamalaFox1.jpg] (kamalaFox1.jpg ) -->
 
 <b>Image Photo by SuiteCase Friend</b>
 <hr style="border:5px solid blue">
