@@ -3,6 +3,17 @@
 
 @import 'jekyll-theme-leap-day';
 
+
+body {
+  font:14px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+ // color:#2b2b2b;
+  color: #572dd7;
+  font-weight:400;
+  margin: 0px;
+  padding:0px 0 20px 0px;
+  background: url(../images/body-background.png) #eae6d1;
+}
+
 header {
   padding: 25px 20px 50px 20px; 
   // padding: 25px 20px 40px 20px;
@@ -31,7 +42,7 @@ header {
    // color: #ff16a8;
   // color: #f3f3f3;
     //color:  #ffffff;
-     color:  #ff552a;
+    color:  #ff552a;
     text-shadow: 0px 2px 0px #235796;
     margin: 0px;
     white-space: nowrap;
@@ -177,8 +188,7 @@ section {
   margin-top: 150px;
   // margin-top: 190px;
   position:relative;
-  background: #5026cf;
- // background: #fbfbfb;
+  background: #fbfbfb;
   border-radius: 3px;
   border: 1px solid #cbcbcb;
   box-shadow: 0px 1px 2px rgba(0,0,0,.09), inset 0px 0px 2px 2px rgba(255,255,255,.5), inset 0 0 5px 5px rgba(255,255,255,.4);
