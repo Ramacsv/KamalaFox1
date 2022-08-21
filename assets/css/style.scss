@@ -54,7 +54,7 @@ header {
 
   p {
    //  color: #d8d8d8;
-    color: #7a2717;
+    color: #4cddc4;
     //color: #009e22; // green
     text-shadow:rgba(#000, 0.2) 0 1px 0;
     font-size: 22px;
@@ -64,8 +64,9 @@ header {
   //width: 80%;
     left:10%;
     bottom: 5px;
-    border: 3px solid #8AC007;
+    //border: 3px solid #8AC007;
     white-space: pre;
+    border: 5px double #4329f7; 
   }
 }
 
